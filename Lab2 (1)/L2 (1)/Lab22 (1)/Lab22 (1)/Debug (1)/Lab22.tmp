@@ -1,0 +1,47 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega32U4"</DEVICE>
+ <WORKING_DIR>C:\Users\Anna\Desktop\IC\Lab2\L2\Lab22\Lab22\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.132\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Anna\Desktop\IC\Lab2\L2\Lab22\Lab22\Lab22.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.132\avrasm\inc\m32u4def.inc</FILE>
+  <FILE>C:\Users\Anna\Desktop\IC\Lab2\L2\Lab22\Lab22\lcd.inc</FILE>
+  <FILE>C:\Users\Anna\Desktop\IC\Lab2\L2\Lab22\Lab22\delay.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Anna\Desktop\IC\Lab2\L2\Lab22\Lab22\Debug\Lab22.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Lab22.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Lab22.map</FILE>
+  <FILE>Lab22.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <lcd_write_nibble><FILE>C:\Users\Anna\Desktop\IC\Lab2\L2\Lab22\Lab22\lcd.inc</FILE><LINE>25</LINE></lcd_write_nibble>
+  <delay_1_micros><FILE>C:\Users\Anna\Desktop\IC\Lab2\L2\Lab22\Lab22\delay.inc</FILE><LINE>23</LINE></delay_1_micros>
+  <lcd_write_instr><FILE>C:\Users\Anna\Desktop\IC\Lab2\L2\Lab22\Lab22\lcd.inc</FILE><LINE>37</LINE></lcd_write_instr>
+  <delay_micros><FILE>C:\Users\Anna\Desktop\IC\Lab2\L2\Lab22\Lab22\delay.inc</FILE><LINE>40</LINE></delay_micros>
+  <lcd_write_chr><FILE>C:\Users\Anna\Desktop\IC\Lab2\L2\Lab22\Lab22\lcd.inc</FILE><LINE>51</LINE></lcd_write_chr>
+  <lcd_init><FILE>C:\Users\Anna\Desktop\IC\Lab2\L2\Lab22\Lab22\lcd.inc</FILE><LINE>70</LINE></lcd_init>
+  <delay_ms><FILE>C:\Users\Anna\Desktop\IC\Lab2\L2\Lab22\Lab22\delay.inc</FILE><LINE>52</LINE></delay_ms>
+  <delay_ay><FILE>C:\Users\Anna\Desktop\IC\Lab2\L2\Lab22\Lab22\delay.inc</FILE><LINE>12</LINE></delay_ay>
+  <loop_dms><FILE>C:\Users\Anna\Desktop\IC\Lab2\L2\Lab22\Lab22\delay.inc</FILE><LINE>54</LINE></loop_dms>
+  <init><FILE>C:\Users\Anna\Desktop\IC\Lab2\L2\Lab22\Lab22\Lab22.asm</FILE><LINE>38</LINE></init>
+  <init_pins><FILE>C:\Users\Anna\Desktop\IC\Lab2\L2\Lab22\Lab22\Lab22.asm</FILE><LINE>53</LINE></init_pins>
+  <main><FILE>C:\Users\Anna\Desktop\IC\Lab2\L2\Lab22\Lab22\Lab22.asm</FILE><LINE>69</LINE></main>
+  <loop_clear_count><FILE>C:\Users\Anna\Desktop\IC\Lab2\L2\Lab22\Lab22\Lab22.asm</FILE><LINE>82</LINE></loop_clear_count>
+  <loop><FILE>C:\Users\Anna\Desktop\IC\Lab2\L2\Lab22\Lab22\Lab22.asm</FILE><LINE>85</LINE></loop>
+  <read_keyboard><FILE>C:\Users\Anna\Desktop\IC\Lab2\L2\Lab22\Lab22\Lab22.asm</FILE><LINE>120</LINE></read_keyboard>
+  <loop_no_key><FILE>C:\Users\Anna\Desktop\IC\Lab2\L2\Lab22\Lab22\Lab22.asm</FILE><LINE>111</LINE></loop_no_key>
+  <forever><FILE>C:\Users\Anna\Desktop\IC\Lab2\L2\Lab22\Lab22\Lab22.asm</FILE><LINE>115</LINE></forever>
+  <scan_key><FILE>C:\Users\Anna\Desktop\IC\Lab2\L2\Lab22\Lab22\Lab22.asm</FILE><LINE>124</LINE></scan_key>
+  <return_key_val><FILE>C:\Users\Anna\Desktop\IC\Lab2\L2\Lab22\Lab22\Lab22.asm</FILE><LINE>149</LINE></return_key_val>
+ </LABELS>
+</ASSEMBLER_INFO>

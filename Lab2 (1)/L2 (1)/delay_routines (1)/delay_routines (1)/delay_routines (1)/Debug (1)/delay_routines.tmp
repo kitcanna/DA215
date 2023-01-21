@@ -1,0 +1,35 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.6</VERSION>
+ <DEVICE>"ATmega32U4"</DEVICE>
+ <WORKING_DIR>M:\L2\delay_routines\delay_routines\delay_routines\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.132\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>M:\L2\delay_routines\delay_routines\delay_routines\delay_routines.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.132\avrasm\inc\m32u4def.inc</FILE>
+  <FILE>M:\L2\delay_routines\delay_routines\delay_routines\delay.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>M:\L2\delay_routines\delay_routines\delay_routines\Debug\delay_routines.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>delay_routines.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>delay_routines.map</FILE>
+  <FILE>delay_routines.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <init><FILE>M:\L2\delay_routines\delay_routines\delay_routines\delay_routines.asm</FILE><LINE>38</LINE></init>
+  <delay_ay><FILE>M:\L2\delay_routines\delay_routines\delay_routines\delay.inc</FILE><LINE>12</LINE></delay_ay>
+  <delay_1_micros><FILE>M:\L2\delay_routines\delay_routines\delay_routines\delay.inc</FILE><LINE>23</LINE></delay_1_micros>
+  <delay_micros><FILE>M:\L2\delay_routines\delay_routines\delay_routines\delay.inc</FILE><LINE>39</LINE></delay_micros>
+  <delay_ms><FILE>M:\L2\delay_routines\delay_routines\delay_routines\delay.inc</FILE><LINE>50</LINE></delay_ms>
+  <loop_dms><FILE>M:\L2\delay_routines\delay_routines\delay_routines\delay.inc</FILE><LINE>52</LINE></loop_dms>
+  <init_pins><FILE>M:\L2\delay_routines\delay_routines\delay_routines\delay_routines.asm</FILE><LINE>52</LINE></init_pins>
+  <main><FILE>M:\L2\delay_routines\delay_routines\delay_routines\delay_routines.asm</FILE><LINE>60</LINE></main>
+ </LABELS>
+</ASSEMBLER_INFO>
